@@ -3,8 +3,7 @@ import tkinter.messagebox
 import numpy as np
 import statistics
 
-
-# aipgoreng 
+# rias dan aip sayang mamah
 
 def rata2(angkalist) :
     return sum(angkalist) / len(angkalist)
